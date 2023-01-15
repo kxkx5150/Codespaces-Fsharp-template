@@ -51,7 +51,23 @@ To stop, click on codespeces and stop from the menu
 
 ![c](https://user-images.githubusercontent.com/10168979/209823266-8ae47f4e-f86e-44a7-a013-dd480fa6c3ad.png)
 
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
+<br><br><br>
+<br><br><br>
 
+### Ctrl + Shift + b  
 
+```
+Build
+```
+
+<br>
+
+### F5  
+
+```
+debug
+```
+
+<br><br><br>
+<br><br><br>
+<br><br><br>
